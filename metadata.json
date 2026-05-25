@@ -1,0 +1,6 @@
+{
+  "name": "No Silent",
+  "description": "برنامج تنبيه المكالمات الهامة لجهات الاتصال المحددة حتى عند تفعيل وضع الصامت أو كتم الصوت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
